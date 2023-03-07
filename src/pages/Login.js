@@ -1,7 +1,7 @@
 import React from 'react';
 import { useAuth0 } from '@auth0/auth0-react';
 import styled from 'styled-components';
-import loginImg from '../images/login-img.svg';
+import loginImg from '../images/logi.png';
 const Login = () => {
   const { loginWithRedirect } = useAuth0();
   return (
@@ -27,6 +27,9 @@ const Wrapper = styled.section`
   }
   img {
     margin-bottom: 2rem;
+    width:20rem;
+    margin:auto;
+    text-align:center;
   }
   h1 {
     margin-bottom: 1.5rem;
