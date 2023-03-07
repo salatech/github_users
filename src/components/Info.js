@@ -14,7 +14,7 @@ const UserInfo = () => {
       icon: <GoRepo className='icon' />,
       label: 'repos',
       value: public_repos,
-      color: 'pink',
+      color: 'purple',
     },
     {
       id: 2,
@@ -28,7 +28,7 @@ const UserInfo = () => {
       icon: <FiUserPlus className='icon' />,
       label: 'following',
       value: following,
-      color: 'purple',
+      color: 'pink',
     },
     {
       id: 4,
@@ -72,7 +72,7 @@ const Wrapper = styled.section`
   .item {
     border-radius: var(--radius);
     padding: 1rem 2rem;
-    background: var(--clr-white);
+    background:#f7fafd;
     display: grid;
     grid-template-columns: auto 1fr;
     column-gap: 3rem;

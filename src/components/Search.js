@@ -30,12 +30,12 @@ const Search = () => {
             <MdSearch />
             <input
               type='text'
-              placeholder='enter github user'
+              placeholder='enter github username'
               value={user}
               onChange={(e) => setUser(e.target.value)}
             />
             {requests > 0 && !isLoading && (
-              <button type='submit'>search</button>
+              <button className='btn' type='submit'>search</button>
             )}
           </div>
         </form>
@@ -78,17 +78,18 @@ const Wrapper = styled.div`
     }
     button {
       border-radius: 5px;
-      border-color: transparent;
+      border: 2px solid var(--clr-grey-1);
       padding: 0.25rem 0.5rem;
       text-transform: capitalize;
       letter-spacing: var(--spacing);
-      background: var(--clr-primary-5);
-      color: var(--clr-white);
+      background: var(--clr-grey-10);
+  color: var(--clr-grey-1);
       transition: var(--transition);
       cursor: pointer;
       &:hover {
-        background: var(--clr-primary-8);
-        color: var(--clr-primary-1);
+        border: 2px solid var(--clr-grey-1);
+        background: var(--clr-grey-1);
+        color: var(--clr-grey-10);
       }
     }
 

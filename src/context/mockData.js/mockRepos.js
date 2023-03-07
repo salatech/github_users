@@ -2,112 +2,112 @@ export default [
   {
     id: 239164394,
     node_id: "MDEwOlJlcG9zaXRvcnkyMzkxNjQzOTQ=",
-    name: "bazinga-example",
-    full_name: "john-smilga/bazinga-example",
+    name: "",
+    full_name: "salatech",
     private: false,
     owner: {
-      login: "john-smilga",
+      login: "salatech",
       id: 42133389,
       node_id: "MDQ6VXNlcjQyMTMzMzg5",
       avatar_url: "https://avatars3.githubusercontent.com/u/42133389?v=4",
       gravatar_id: "",
-      url: "https://api.github.com/users/john-smilga",
-      html_url: "https://github.com/john-smilga",
-      followers_url: "https://api.github.com/users/john-smilga/followers",
+      url: "https://api.github.com/users/salatech",
+      html_url: "https://github.com/salatech",
+      followers_url: "https://api.github.com/users/salatech/followers",
       following_url:
-        "https://api.github.com/users/john-smilga/following{/other_user}",
-      gists_url: "https://api.github.com/users/john-smilga/gists{/gist_id}",
+        "https://api.github.com/users/salatech/following{/other_user}",
+      gists_url: "https://api.github.com/users/salatech/gists{/gist_id}",
       starred_url:
-        "https://api.github.com/users/john-smilga/starred{/owner}{/repo}",
+        "https://api.github.com/users/salatech/starred{/owner}{/repo}",
       subscriptions_url:
-        "https://api.github.com/users/john-smilga/subscriptions",
-      organizations_url: "https://api.github.com/users/john-smilga/orgs",
-      repos_url: "https://api.github.com/users/john-smilga/repos",
-      events_url: "https://api.github.com/users/john-smilga/events{/privacy}",
+        "https://api.github.com/users/salatech/subscriptions",
+      organizations_url: "https://api.github.com/users/salatech/orgs",
+      repos_url: "https://api.github.com/users/salatech/repos",
+      events_url: "https://api.github.com/users/salatech/events{/privacy}",
       received_events_url:
-        "https://api.github.com/users/john-smilga/received_events",
+        "https://api.github.com/users/salatech/received_events",
       type: "User",
       site_admin: false,
     },
-    html_url: "https://github.com/john-smilga/bazinga-example",
+    html_url: "https://github.com/salatech/",
     description: null,
     fork: false,
-    url: "https://api.github.com/repos/john-smilga/bazinga-example",
-    forks_url: "https://api.github.com/repos/john-smilga/bazinga-example/forks",
+    url: "https://api.github.com/repos/salatech/",
+    forks_url: "https://api.github.com/repos/salatech//forks",
     keys_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/keys{/key_id}",
+      "https://api.github.com/repos/salatech//keys{/key_id}",
     collaborators_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/collaborators{/collaborator}",
-    teams_url: "https://api.github.com/repos/john-smilga/bazinga-example/teams",
-    hooks_url: "https://api.github.com/repos/john-smilga/bazinga-example/hooks",
+      "https://api.github.com/repos/salatech//collaborators{/collaborator}",
+    teams_url: "https://api.github.com/repos/salatech//teams",
+    hooks_url: "https://api.github.com/repos/salatech//hooks",
     issue_events_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/issues/events{/number}",
+      "https://api.github.com/repos/salatech//issues/events{/number}",
     events_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/events",
+      "https://api.github.com/repos/salatech//events",
     assignees_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/assignees{/user}",
+      "https://api.github.com/repos/salatech//assignees{/user}",
     branches_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/branches{/branch}",
-    tags_url: "https://api.github.com/repos/john-smilga/bazinga-example/tags",
+      "https://api.github.com/repos/salatech//branches{/branch}",
+    tags_url: "https://api.github.com/repos/salatech//tags",
     blobs_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/blobs{/sha}",
+      "https://api.github.com/repos/salatech//git/blobs{/sha}",
     git_tags_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/tags{/sha}",
+      "https://api.github.com/repos/salatech//git/tags{/sha}",
     git_refs_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/refs{/sha}",
+      "https://api.github.com/repos/salatech//git/refs{/sha}",
     trees_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/trees{/sha}",
+      "https://api.github.com/repos/salatech//git/trees{/sha}",
     statuses_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/statuses/{sha}",
+      "https://api.github.com/repos/salatech//statuses/{sha}",
     languages_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/languages",
+      "https://api.github.com/repos/salatech//languages",
     stargazers_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/stargazers",
+      "https://api.github.com/repos/salatech//stargazers",
     contributors_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/contributors",
+      "https://api.github.com/repos/salatech//contributors",
     subscribers_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/subscribers",
+      "https://api.github.com/repos/salatech//subscribers",
     subscription_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/subscription",
+      "https://api.github.com/repos/salatech//subscription",
     commits_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/commits{/sha}",
+      "https://api.github.com/repos/salatech//commits{/sha}",
     git_commits_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/git/commits{/sha}",
+      "https://api.github.com/repos/salatech//git/commits{/sha}",
     comments_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/comments{/number}",
+      "https://api.github.com/repos/salatech//comments{/number}",
     issue_comment_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/issues/comments{/number}",
+      "https://api.github.com/repos/salatech//issues/comments{/number}",
     contents_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/contents/{+path}",
+      "https://api.github.com/repos/salatech//contents/{+path}",
     compare_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/compare/{base}...{head}",
+      "https://api.github.com/repos/salatech//compare/{base}...{head}",
     merges_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/merges",
+      "https://api.github.com/repos/salatech//merges",
     archive_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/{archive_format}{/ref}",
+      "https://api.github.com/repos/salatech//{archive_format}{/ref}",
     downloads_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/downloads",
+      "https://api.github.com/repos/salatech//downloads",
     issues_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/issues{/number}",
+      "https://api.github.com/repos/salatech//issues{/number}",
     pulls_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/pulls{/number}",
+      "https://api.github.com/repos/salatech//pulls{/number}",
     milestones_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/milestones{/number}",
+      "https://api.github.com/repos/salatech//milestones{/number}",
     notifications_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/notifications{?since,all,participating}",
+      "https://api.github.com/repos/salatech//notifications{?since,all,participating}",
     labels_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/labels{/name}",
+      "https://api.github.com/repos/salatech//labels{/name}",
     releases_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/releases{/id}",
+      "https://api.github.com/repos/salatech//releases{/id}",
     deployments_url:
-      "https://api.github.com/repos/john-smilga/bazinga-example/deployments",
+      "https://api.github.com/repos/salatech//deployments",
     created_at: "2020-02-08T16:30:10Z",
     updated_at: "2020-05-12T15:57:33Z",
     pushed_at: "2020-02-08T16:30:48Z",
-    git_url: "git://github.com/john-smilga/bazinga-example.git",
-    ssh_url: "git@github.com:john-smilga/bazinga-example.git",
-    clone_url: "https://github.com/john-smilga/bazinga-example.git",
-    svn_url: "https://github.com/john-smilga/bazinga-example",
+    git_url: "git://github.com/salatech/.git",
+    ssh_url: "git@github.com:salatech/.git",
+    clone_url: "https://github.com/salatech/.git",
+    svn_url: "https://github.com/salatech/",
     homepage: null,
     size: 173,
     stargazers_count: 1,

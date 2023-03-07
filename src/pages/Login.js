@@ -1,17 +1,19 @@
 import React from 'react';
-import { useAuth0 } from '@auth0/auth0-react';
 import styled from 'styled-components';
 import loginImg from '../images/logi.png';
+
+import { Link } from 'react-router-dom';
 const Login = () => {
-  const { loginWithRedirect } = useAuth0();
   return (
     <Wrapper>
       <div className='container'>
         <img src={loginImg} alt='github user' />
-        <h1>github user</h1>
-        <button className='btn' onClick={loginWithRedirect}>
-          Log In / Sign Up
-        </button>
+        <h1>github users </h1>
+       
+        <Link to='/dashboard' className='btn'>
+          log in
+        </Link>
+    
       </div>
     </Wrapper>
   );
@@ -27,7 +29,7 @@ const Wrapper = styled.section`
   }
   img {
     margin-bottom: 2rem;
-    width:20rem;
+    width:15rem;
     margin:auto;
     text-align:center;
   }

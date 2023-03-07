@@ -22,7 +22,7 @@ const Card = () => {
           <h4>{name || 'Not found'}</h4>
           <p>@{twitter_username || 'anonymous'}</p>
         </div>
-        <a href={html_url}>follow</a>
+        <a className='btn' href={html_url}>follow</a>
       </header>
       <p className='bio'>{bio}</p>
       <div className='links'>
@@ -41,7 +41,7 @@ const Card = () => {
   );
 };
 const Wrapper = styled.article`
-  background: var(--clr-white);
+  background: #f7fafd;
   padding: 1.5rem 2rem;
   border-top-right-radius: var(--radius);
   border-bottom-left-radius: var(--radius);
@@ -80,18 +80,12 @@ const Wrapper = styled.article`
       margin-bottom: 0;
     }
     a {
-      color: var(--clr-primary-5);
-      border: 1px solid var(--clr-primary-5);
       padding: 0.25rem 0.75rem;
       border-radius: 1rem;
       text-transform: capitalize;
       letter-spacing: var(--spacing);
       transition: var(--transition);
       cursor: pointer;
-      &:hover {
-        background: var(--clr-primary-5);
-        color: var(--clr-white);
-      }
     }
   }
   .bio {

@@ -26,7 +26,7 @@ const Followers = () => {
 };
 
 const Wrapper = styled.article`
-  background: var(--clr-white);
+  background: #f7fafd;
   border-top-right-radius: var(--radius);
   border-bottom-left-radius: var(--radius);
   border-bottom-right-radius: var(--radius);
@@ -47,14 +47,16 @@ const Wrapper = styled.article`
     letter-spacing: var(--spacing);
     font-size: 1rem;
   }
+  
   .followers {
-    overflow: scroll;
+    overflow-y: scroll;
     height: 260px;
     display: grid;
     grid-template-rows: repeat(auto-fill, minmax(45px, 1fr));
     gap: 1.25rem 1rem;
     padding: 1rem 2rem;
   }
+  
   article {
     transition: var(--transition);
     padding: 0.15rem 0.5rem;

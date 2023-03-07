@@ -41,10 +41,10 @@ const ChartComponent = ({ data }) => {
         showShadow: 0,
         showPlotBorder: 0,
         paletteColors:
-          "#2caeba, #5D62B5, #FFC533, #F2726F, #8d6e63, #1de9b6, #6E80CA",
+        "#027acd, #f1e05a, #563d7c, #31859c, #ff7f0e, #8d6e63, #6E80CA",
         use3DLighting: 0,
         useDataPlotColorForLabels: 0,
-        bgColor: "#FFFFFF",
+        bgColor: "#f7fafd",
         showBorder: 0,
       },
       // Chart Data
